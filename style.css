@@ -1,0 +1,10 @@
+:root{
+    --cor-de-fundo: #9b50aa;
+}
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1{
+    background-color:turquoise;
+}
